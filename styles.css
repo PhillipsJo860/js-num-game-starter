@@ -1,0 +1,14 @@
+/* Student Name */
+/* Current date */
+/* JS Random Number Guess Game */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Barlow', sans-serif;
+  margin: 0.75rem;
+}
