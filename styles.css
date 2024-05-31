@@ -16,6 +16,7 @@ body {
   max-width: 800px;
   min-width: 480px;
   margin: 0 auto;
+  background-color: grey;
 }
 
 .form input[type="number"] {
